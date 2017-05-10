@@ -5,6 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         function __construct()
         {
             //model parent call
+            //zzzzzzz
             parent::__construct();
 
         }
