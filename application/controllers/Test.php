@@ -1,12 +1,10 @@
 <?php
 
 
-    class Test extends CI_Controlljer{
+    class Test extends CI_Controller{
 
         function index(){
 
-            parent::constor;
-            
             $this->load->view("Test_view");
 
         }
